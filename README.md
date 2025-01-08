@@ -51,11 +51,12 @@
 
 ## Technologies Used
 
-### Frontend: JavaScript
-The frontend of this project is built using **JavaScript**, a versatile and powerful language that is widely used for creating dynamic and interactive web applications. JavaScript enables the website to be responsive and user-friendly, ensuring smooth interactions and real-time updates on the client-side.
+### Frontend: HTML, CSS, JavaScript
+The frontend of this project is crafted using **HTML**, **CSS**, and **JavaScript**:
+- **HTML (HyperText Markup Language)** forms the structure of the web pages, providing the essential framework and content organization.
+- **CSS (Cascading Style Sheets)** is used for styling the HTML elements, ensuring the design is visually appealing and responsive across different devices.
+- **JavaScript** adds interactivity and dynamic behavior to the web pages, enabling features like real-time updates, form validation, and user interactions.
 
 ### Backend: Python
-The backend of the project is powered by **Python**, a high-level programming language known for its simplicity and readability. Python is used to handle server-side logic, manage data processing, and communicate between the frontend and the database. It offers strong support for backend frameworks, making development efficient and scalable.
+The backend is implemented using **Python**, a high-level language known for its clean syntax and efficiency in server-side development. Python manages the logic, processes requests from the frontend, and handles data flow between the application and the database.
 
-### Database: SQLite
-**SQLite** is used as the database for this project. It is a lightweight, self-contained, and serverless database engine that stores data in a single file. SQLite is ideal for applications where simplicity, low setup overhead, and minimal administration are priorities, making it a great choice for this project’s database management needs.
