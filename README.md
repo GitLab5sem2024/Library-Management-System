@@ -32,7 +32,7 @@
 ## Benefits of a Library Management System:
 
 - **Increased Efficiency:**  
-  Automation reduces the time and effort spent on manual tasks, such as cataloging, checking out books, and managing fines.
+  Automation reduces the time and effort spent on manual tasks, such as cataloging, checking out books, and managing files.
 
 - **Improved User Experience:**  
   Users can easily search for, borrow, and return materials, and they receive notifications about due dates or reservations.
