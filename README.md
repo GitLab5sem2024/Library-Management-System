@@ -51,13 +51,6 @@
 
 ## Technologies Used
 
-- **Backend**: python
-  
-
-Here is a description for your README file about using Python for the backend:
-
----
-
 ### Backend
 
 The backend of this project is developed using **Python**, a versatile and powerful language known for its simplicity and efficiency. Python was chosen for its vast ecosystem of libraries and frameworks that enable rapid development and reliable performance. 
